@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dave
+- 👀 I’m interested in everything techie and design
+- 🌱 I’m currently learning Remix
+- 📫 Reach me at damey@worth.systems
